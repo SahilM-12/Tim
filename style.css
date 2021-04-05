@@ -3,8 +3,24 @@
     height: 400px;
 }
 #tim {
-    width: 40%;
+    width: 20%;
 }
 body {
     text-align: center;
+}
+#name{
+     font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+h2{
+    font-family: monospace
+}
+#bio{
+    padding: 20px 70px;
+    background-color: #dddddd
+}
+#bio p{
+    text-align: justify;
+    font-size: 17px;
+    line-height: 1.3;
 }
